@@ -61,9 +61,11 @@ python script.py
 ## RUN from bash terminal
 ```bash
 
-export MLFLOW_TRACKING_URI=https://dagshub.com/AngadSinghLamba/mlops-experiment-demo.mlflow \
+export MLFLOW_TRACKING_URI=https://dagshub.com/AngadSinghLamba/Chest-Disease-Classification-from-Chest-CT-Scan-Image.mlflow 
 
-export MLFLOW_TRACKING_USERNAME=AngadSinghLamba
+export MLFLOW_TRACKING_USERNAME=AngadSinghLamba 
 
-export MLFLOW_TRACKING_PASSWORD=26a55162d53e30bf20d7649e0d7544afb71e854b
+export MLFLOW_TRACKING_PASSWORD=26a55162d53e30bf20d7649e0d7544afb71e854b 
+
 ```
+python script.py
