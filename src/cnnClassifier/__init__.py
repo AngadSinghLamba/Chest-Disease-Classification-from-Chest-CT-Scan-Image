@@ -1,5 +1,3 @@
-# WIll be writing a log here. No need to create a separate folder for logger
-
 import os
 import sys
 import logging
