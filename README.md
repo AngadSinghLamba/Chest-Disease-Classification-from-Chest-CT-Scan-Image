@@ -68,4 +68,9 @@ export MLFLOW_TRACKING_USERNAME=AngadSinghLamba
 export MLFLOW_TRACKING_PASSWORD=26a55162d53e30bf20d7649e0d7544afb71e854b 
 
 ```
-python script.py
+
+
+### DVC cmd
+dvc init
+dvc repro
+dvc dag
